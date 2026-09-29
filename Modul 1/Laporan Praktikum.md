@@ -101,7 +101,8 @@ int main() {
 
 ### Output Unguided 2 :
 
-<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/0368c425-1dd2-4ac1-921b-032de3b143e5" />
+<img width="1920" height="1080" alt="Screenshot (521)" src="https://github.com/user-attachments/assets/4e9a6ee5-88fb-41ff-8139-9515f424f576" />
+
 
 penjelasan unguided 2 :
 
