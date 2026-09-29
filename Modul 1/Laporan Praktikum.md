@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 1 - Struktur Data</h1>
-<p align="center">Fauzi Ulhaq Abdillah- 109082500141</p>
+<p align="center">Farrel Hanan Kashia Ramadhan- 109082500074</p>
 
 ## Dasar Teori
 
