@@ -41,7 +41,8 @@ int main() {
 
 ### Output Unguided 1 :
 
-<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/583f05e2-cac8-444a-8b28-78b6f6147dcc" />
+<img width="1920" height="1080" alt="Screenshot (520)" src="https://github.com/user-attachments/assets/27c2471f-8874-49c1-8ae5-64dc30879236" />
+
 
 
 
