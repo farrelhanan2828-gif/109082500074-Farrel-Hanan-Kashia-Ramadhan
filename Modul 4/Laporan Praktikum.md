@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 4 - Struktur Data</h1>
-<p align="center">Dani Wahyu Ramadan - 109082500070</p>
+<p align="center">Farrel Hanan Kashia Ramadhan - 109082500074</p>
 
 ## Dasar Teori
 ### A. Singly Linked List
@@ -511,7 +511,8 @@ int main() {
 ### Output Unguided 1 :
 
 
-<img width="1920" height="1080" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/51531999-0169-4115-9504-26adfbf3ee7d" />
+<img width="1366" height="768" alt="screenshoot main 1" src="https://github.com/user-attachments/assets/0d9f3887-e51a-4536-9c56-aa625020f734" />
+
 
 
 
@@ -573,7 +574,8 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="Screenshot (554)" src="https://github.com/user-attachments/assets/353be8cb-d148-490b-b717-4f5f718edefd" />
+<img width="1366" height="768" alt="screenshoot main 2" src="https://github.com/user-attachments/assets/cd4de84f-72eb-4be0-accc-ace2fe6fd464" />
+
 
 
 
