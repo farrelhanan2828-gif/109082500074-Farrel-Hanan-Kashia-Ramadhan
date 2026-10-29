@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 5 - Struktur Data</h1>
-<p align="center">Dani Wahyu Ramadan - 109082500070</p>
+<p align="center">Farrel Hanan Kashia Ramadhan - 109082500074</p>
 
 ## Dasar Teori
 ### A. Singly Linked List
